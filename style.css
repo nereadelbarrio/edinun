@@ -465,7 +465,7 @@ Padre edinun
 	.content_type_clase_edinun .slider-indicators li.active,
 	.content_type_clase_edinun .publisher-navbar li:hover {
 		opacity: 1;
-		background:#f9bfad;
+		background:#EC9021;
 	}
 
 	.content_type_clase_edinun .publisher-navbar #top-navigator {
@@ -505,11 +505,11 @@ Padre edinun
 	}
 
 	.content_type_clase_edinun .publisher-navbar .dropdown li a {
-		color: #5ebdb2;
+		color: #EC9021;
 	}
 
 	.content_type_clase_edinun .publisher-navbar .dropdown .caret {
-		border-color: #5ebdb2 transparent transparent transparent;
+		border-color: #EC9021 transparent transparent transparent;
 		margin-left: 6px;
 
 	}
