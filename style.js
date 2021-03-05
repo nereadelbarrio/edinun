@@ -18,6 +18,23 @@
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title1'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
 				{ name: 'Título 3', element: 'h4', attributes: { 'class': 'bck-title3'} },
+				{ name: 'Título 4', element: 'h4', attributes: { 'class': 'bck-title4'} },
+				{ name: 'Título 5', element: 'h4', attributes: { 'class': 'bck-title5'} },
+				{ name: 'Título 6', element: 'h4', attributes: { 'class': 'bck-title6'} },
+
+				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
+				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
+				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
+				{ name: 'Lista Ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
+				{ name: 'Lista Ordenada 5', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-5' } },
+				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-6' } },
+
+				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
+				{ name: 'Lista Desordenada 2', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
+				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-3' } },
+				{ name: 'Lista Desordenada 4', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-4' } },
+				{ name: 'Lista Desordenada 5', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-5' } },
+				{ name: 'Lista Desordenada 6', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-6' } },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis' }},
 				{ name: 'Enunciado actividad', element: 'h4', attributes: { 'class': 'bck-title-activity' }},
