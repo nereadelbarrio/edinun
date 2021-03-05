@@ -1185,7 +1185,38 @@ font-weight: bold;
 		font-size: 2.4rem;
 	}
 
+/*desplegable*/
+.bck-dropdown-content {
+    overflow-y: auto;
+    display: none;
+    max-height: 300px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #c8c8c8;
+    border-radius: 3px;
+}
 
+.bck-dropdown-icon>.fa {
+    display: inline-block;
+    border: 3px solid #414141;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    padding: 7px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.fa-chevron-up:before {
+    content: "\f077";
+    color: #414141;
+}
+
+.fa-chevron-down:before {
+    content: "\f078";
+    color: #414141;
+}
 
 /**/
 
