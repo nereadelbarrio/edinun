@@ -146,12 +146,11 @@ body{
 	    margin: -21px 0 0 35px;
 	    line-height: 18px;
 	    display: block;
-		    -webkit-transition: all 0.1s ease-in;
-	-moz-transition: all 0.1s ease-in;
-	-ms-transition: all 0.1s ease-in;
-	-o-transition: all 0.1s ease-in;
-	transition: all 0.1s ease-in;
 		}
+
+		#indice .units ul li:not(.add) a .title {
+	    margin-left: 0px;
+	}
 
 
 	#indice .units ul li a .number,
