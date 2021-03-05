@@ -113,6 +113,47 @@ body{
 		display: none;
 	}
 
+
+	/*TOC*/
+	#indice .units ul li.active:not(.disabled), 
+	body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+	#indice .units ul li:focus:not(.disabled) {
+	    background: #EC4A3F;
+	    border-radius: 9px;
+	    padding: 5px;
+	}
+
+	#indice .units ul li {
+	    background: #cbcbcb;
+	    -webkit-border-radius: 18px;
+	    -moz-border-radius: 18px;
+	    border-radius: 7px;
+	    margin-bottom: 8px;
+	    padding: 8px 16px;
+	}
+
+	body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+	body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
+	    color: #fff;
+	    font-size: 1.9rem;
+	    padding-left: 15px;
+	}
+
+	#indice .units ul li a .title {
+	    font-size: 1.7rem;
+	    font-weight: 700;
+	    color: #666;
+	    margin: -21px 0 0 35px;
+	    line-height: 18px;
+	    display: block;
+		    -webkit-transition: all 0.1s ease-in;
+	-moz-transition: all 0.1s ease-in;
+	-ms-transition: all 0.1s ease-in;
+	-o-transition: all 0.1s ease-in;
+	transition: all 0.1s ease-in;
+		}
+
+
 	#indice .units ul li a .number,
 	#indice .unit-content .header .number
 	 {
