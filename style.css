@@ -386,6 +386,27 @@ body{
 		color: #f9bfad;
 	}
 
+	/*botones*/
+	.btn-primary, 
+	.btn-primary.disabled, 
+	.btn-primary.disabled:hover, 
+	.btn-primary.disabled:focus {
+    color: #fff;
+    background-color: #ec4a3f;
+    border-color: transparent;
+    opacity: 1;
+    border-radius: 7px;
+}
+
+/*enlaces*/
+	a:hover, 
+	a:active, 
+	a:focus {
+	    outline: 0;
+	    color: #ec4a3f;
+	    text-decoration: none;
+	}
+
 /**/
 
 /* Navbar (Breadcums) */
