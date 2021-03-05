@@ -1096,143 +1096,97 @@ font-weight: bold;
 		margin-right: auto;
 	}
 
-	.bck-box .bck-title {
-		font-size: 2.5rem;
-		margin-bottom: 10px;
-	}
-	.bck-box .bck-title1,
-	.bck-box .bck-title2 {
-		border-left: 0;
-		margin-left: 0;
-		padding: 0;
-		margin-bottom: 10px;
-	}
-
+	/*Caja 1*/
 	.bck-box.box-1 {
-		border: 3px solid #5ebdb2;
-		background: #ffffff;
-		padding: 40px;
-		position: relative;
-		margin-top: 60px;
-		border-radius: 40px;
+		border: 7px solid #ec4a3f;
+	    background: #ffffff;
+	    padding: 20px;
+	    position: relative;
+	    margin-top: 60px;
+	    border-radius: 20px;
 	}
 
-	.bck-box.box-1 hr {
-		border: 0;
-		display: block;
-		border-top: 1px solid #5ebdb2;
-	}
 
 	.bck-box.box-1 .bck-title {
-		color: #f9bfad;
 		font-size: 2.4rem;
 	}
 
-	.bck-box.box-1 .bck-title1 {
-		font-size: 3.0rem;
-		margin-left: -40px;
-		padding: 4px 20px 4px 40px;
-	}
-	.bck-box.box-1 .bck-title2 {
-		font-size: 2.0rem;
-		font-weight: 400;
-		color: #706f6f;
-		margin-bottom: 10px;
-	}
-
-	.bck-box.box-2,
-	.bck-box.box-3  {
-		border: 0;
-		padding: 20px;
-		font-size: 1.4rem;
-		position: relative;
-		margin-bottom: 40px;
-		border-radius: 40px;
-		box-shadow: 0 0 30px 0px rgba(0,0,0,.1);
-	}
-
+		/*Caja 2*/
 	.bck-box.box-2 {
-
+		border: 7px solid #EC9021;
+	    background: #ffffff;
+	    padding: 20px;
+	    position: relative;
+	    margin-top: 60px;
+	    border-radius: 20px;
 	}
 
 
+	.bck-box.box-2 .bck-title {
+		font-size: 2.4rem;
+	}
+
+			/*Caja 3*/
 	.bck-box.box-3 {
-		margin-bottom: 80px;
+		border: 7px solid #FFD404;
+	    background: #ffffff;
+	    padding: 20px;
+	    position: relative;
+	    margin-top: 60px;
+	    border-radius: 20px;
 	}
 
-	.bck-box.box-2 .bck-title,
-	.bck-box.box-2 .bck-title1,
-	.bck-box.box-3 .bck-title,
-	.bck-box.box-3 .bck-title1 {
-		color: #f9bfad;
-		background: none;
-		font-size: 1.8rem;
-		margin-bottom: 20px;
-		font-family: 'Raleway', sans-serif;
-		font-weight: bold;
-	}
 
-	.bck-box.box-2 .bck-title,
 	.bck-box.box-3 .bck-title {
-		margin-top: -20px;
-		margin-left: -20px;
-		margin-right: -20px;
-		border-radius: 40px 40px 0 0 ;
-		padding: 14px 20px 10px;
-		color: #ffffff;
-		background: #f9bfad;
-		font-weight: 400;
-	}
-	.bck-box.box-3 .bck-title {
-		background: #5ebdb2;
+		font-size: 2.4rem;
 	}
 
-	.bck-box.box-2 .bck-title p,
-	.bck-box.box-3 .bck-title p {
-		margin-bottom: 0;
-	}
-
-	.bck-box.box-2 .bck-title2,
-	.bck-box.box-3 .bck-title2,
-	.bck-box.box-2 .bck-title3,
-	.bck-box.box-3 .bck-title3 {
-		color: #f9bfad;
-		margin-bottom: 10px;
-		font-family: 'Raleway', sans-serif;
-		font-size: 1.6rem;
-		font-weight: bold;
-	}
-	.bck-box.box-2 .bck-title3,
-	.bck-box.box-3 .bck-title3 {
-		font-size: 1.4rem;
-	}
-	.bck-box.box-3 .bck-title1,
-	.bck-box.box-3 .bck-title2,
-	.bck-box.box-3 .bck-title3 {
-		color: #5ebdb2;
-	}
-
-	.bck-box.box-2 hr,
-	.bck-box.box-3 hr {
-		border: 0;
-		display: block;
-		border-top: 2px solid #f9bfad;
-	}
-
-	.bck-box.box-3 hr {
-		border-top-color: #5ebdb2;
+/*Caja 4*/
+	.bck-box.box-4 {
+		border: 7px solid #8CD4D3;
+	    background: #ffffff;
+	    padding: 20px;
+	    position: relative;
+	    margin-top: 60px;
+	    border-radius: 20px;
 	}
 
 
-	.bck-box.box-2 ul li:before {
-		font-family: 'FontAwesome';
-		content:"\f00c";
-		color: #f9bfad;
-		background: none;
-		margin-top: -2px;
-		margin-left: -24px;
-		font-size: 2.0rem;
+	.bck-box.box-4 .bck-title {
+		font-size: 2.4rem;
 	}
+
+/*Caja 5*/
+	.bck-box.box-5 {
+		border: 7px solid #97C740;
+	    background: #ffffff;
+	    padding: 20px;
+	    position: relative;
+	    margin-top: 60px;
+	    border-radius: 20px;
+	}
+
+
+	.bck-box.box-5 .bck-title {
+		font-size: 2.4rem;
+	}
+
+	/*Caja 6*/
+	.bck-box.box-6 {
+		border: 7px solid #4F2F1F;
+	    background: #ffffff;
+	    padding: 20px;
+	    position: relative;
+	    margin-top: 60px;
+	    border-radius: 20px;
+	}
+
+
+	.bck-box.box-6 .bck-title {
+		font-size: 2.4rem;
+	}
+
+
 
 /**/
 
