@@ -60,7 +60,9 @@ Padre edinun
 	font-style: normal;
 }
 
-
+body{
+	font-family: 'Conv_Lato-Regular';
+}
 
 	.body_clase .content-wrapper {
 		padding-top: 100px;
