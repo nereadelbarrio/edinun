@@ -136,7 +136,7 @@ body{
 	body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 	    color: #fff;
 	    font-size: 1.9rem;
-	    padding-left: 15px;
+	    padding-left: 0px;
 	}
 
 	#indice .units ul li a .title {
