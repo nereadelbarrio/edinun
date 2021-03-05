@@ -399,7 +399,7 @@ Padre edinun
 	}
 	.content_type_clase_edinun .logo-publisher {
 		content: " ";
-		background-image: url(logo-blink.png);
+		background-image: url(logo.png);
 		height: 36px;
 		background-repeat: no-repeat;
 		width: 100px;
@@ -441,7 +441,7 @@ Padre edinun
 	}
 	.content_type_clase_edinun .publisher-navbar .dropdown button {
 		background: none;
-		color: #5ebdb2;
+		color: #EC9021;
 	}
 
 	.content_type_clase_edinun .slider-indicators:after {
@@ -465,7 +465,7 @@ Padre edinun
 	.content_type_clase_edinun .slider-indicators li.active,
 	.content_type_clase_edinun .publisher-navbar li:hover {
 		opacity: 1;
-		background:#f9bfad;
+		background:#EC9021;
 	}
 
 	.content_type_clase_edinun .publisher-navbar #top-navigator {
@@ -505,11 +505,11 @@ Padre edinun
 	}
 
 	.content_type_clase_edinun .publisher-navbar .dropdown li a {
-		color: #5ebdb2;
+		color: #EC9021;
 	}
 
 	.content_type_clase_edinun .publisher-navbar .dropdown .caret {
-		border-color: #5ebdb2 transparent transparent transparent;
+		border-color: #EC9021 transparent transparent transparent;
 		margin-left: 6px;
 
 	}
@@ -645,7 +645,6 @@ Padre edinun
 
 	.bck-enfasis,
 	strong {
-		color: #f9bfad;
 		font-weight: bold;
 	}
 
@@ -1075,7 +1074,7 @@ font-weight: bold;
 	.cke_contents table:not(.rf-tablegrid) th,
 	.content table:not(.rf-tablegrid) td,
 	.content table:not(.rf-tablegrid) th {
-		border: 1px solid #CBCCCD;
+		border: 1px solid #909090;
 		padding: 7px;
 	}
 
@@ -1186,7 +1185,38 @@ font-weight: bold;
 		font-size: 2.4rem;
 	}
 
+/*desplegable*/
+.bck-dropdown-content {
+    overflow-y: auto;
+    display: none;
+    max-height: 300px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #c8c8c8;
+    border-radius: 3px;
+}
 
+.bck-dropdown-icon>.fa {
+    display: inline-block;
+    border: 3px solid #414141;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    padding: 7px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.fa-chevron-up:before {
+    content: "\f077";
+    color: #414141;
+}
+
+.fa-chevron-down:before {
+    content: "\f078";
+    color: #414141;
+}
 
 /**/
 
