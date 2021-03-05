@@ -1074,7 +1074,7 @@ font-weight: bold;
 	.cke_contents table:not(.rf-tablegrid) th,
 	.content table:not(.rf-tablegrid) td,
 	.content table:not(.rf-tablegrid) th {
-		border: 1px solid #CBCCCD;
+		border: 1px solid #909090;
 		padding: 7px;
 	}
 
