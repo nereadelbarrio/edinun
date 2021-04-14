@@ -1250,6 +1250,14 @@ font-weight: bold;
 
 
 /*TABLAS*/
+.cke_contents table:not(.rf-tablegrid) td, 
+.cke_contents table:not(.rf-tablegrid) th, 
+.content table:not(.rf-tablegrid) td, 
+.content table:not(.rf-tablegrid) th {
+    border: 2px solid #909090;
+    padding: 7px;
+}
+
 
 /*celda 1*/
 td.bck-td{
