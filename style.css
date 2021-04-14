@@ -806,7 +806,7 @@ body{
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
 	content: counter(bck-li-counter) ".";
     position: absolute;
-    color: #ffd404;
+    color: #EC9021;
 	font-weight: bold;
     font-size: 1.9rem;
     margin-top: -2px;
