@@ -1,5 +1,5 @@
 /*EDINUN*
-Padre edinun
+Padre modern
 */
 
 /* General */
@@ -170,10 +170,9 @@ body{
 	}
 
 	.content_type_clase_edinun #actividad .content .header .title h3 {
-		font-family: 'Raleway', Georgia, serif;
 		font-size: 4.0rem;
 		font-weight: bold;
-		color: #f9bfad;
+		color: #414141;
 		display: block;
 		padding: 50px 20px 0px 0px;
 		margin-top: -43px;
