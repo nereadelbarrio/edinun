@@ -1248,6 +1248,46 @@ font-weight: bold;
 		font-size: 2.4rem;
 	}
 
+
+/*TABLAS*/
+
+/*celda 1*/
+td.bck-td{
+	background: #dcdcdc;
+	color: #fff;
+}	
+
+/*celda 2*/
+td.bck-td-2{
+	background: #ec4a3f;
+	color: #fff;
+}
+
+/*celda 3*/
+td.bck-td-3{
+	background: #EC9021;
+	color: #fff;
+}
+
+/*celda 4*/
+td.bck-td-4{
+	background: #FFD404;
+	color: #fff;
+}
+
+/*celda 5*/
+td.bck-td-5{
+	background: #4F2F1F;
+	color: #fff;
+}
+
+/*celda 6*/
+td.bck-td-6{
+	background: #EC9021;
+	color: #fff;
+}
+
+
 /*desplegable*/
 .bck-dropdown-content {
     overflow-y: auto;
