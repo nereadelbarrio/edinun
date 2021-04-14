@@ -301,7 +301,7 @@ body{
 		margin: 0px;
 		opacity: 1;
 		text-shadow: none;
-		color: #f9bfad;
+		color: #f6c890;
 		font-size: 1.9rem;
 		position: relative;
 		top: auto;
@@ -319,7 +319,7 @@ body{
 		position: absolute;
 		margin-top: 0;
 		background: none;
-		color: #f9bfad;
+		color: #f6c890;
 		border-radius: 120px;
 		width: 48px;
 		height: 48px;
@@ -386,6 +386,10 @@ body{
 	}
 
 	/*botones*/
+	.btn{
+		border-radius: 7px;
+	}
+
 	.btn-primary, 
 	.btn-primary.disabled, 
 	.btn-primary.disabled:hover, 
