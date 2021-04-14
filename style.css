@@ -310,7 +310,7 @@ body{
 	}
 
 	body:not(.android) .main-navigator .slider-control:not(.disabled):hover {
-		color: #f77249;
+		color: #ec9021;
 	}
 
 	.navigator .slider-control.left:before,
